@@ -10,7 +10,7 @@
   "author": "Rishant Agarwal",
   "license": "MIT",
   "bin": {
-    "test-module": "bin/index.js"
+    "wba-runner": "bin/index.js"
   },
   "preferGlobal": "true",
   "dependencies": {
