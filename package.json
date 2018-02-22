@@ -6,6 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "url": "https://github.com/rishantagarwal/wba-runner",
+  "email": "bindasrishant@gmail.com",
   "keywords": ["webpack bundle analyzer", "react", "create react app"],
   "author": "Rishant Agarwal",
   "license": "MIT",
@@ -14,7 +16,7 @@
   },
   "preferGlobal": "true",
   "dependencies": {
-    "react-scripts": "^1.1.1",
-    "webpack-bundle-analyzer": "^2.10.0"
+    "react-scripts": "1.1.1",
+    "webpack-bundle-analyzer": "2.10.0"
   }
 }
