@@ -1,6 +1,6 @@
 {
   "name": "wba-runner",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Independent Webpack Bundle Analyzer runner for CRA apps",
   "main": "./lib/index.js",
   "scripts": {
@@ -8,7 +8,11 @@
   },
   "url": "https://github.com/rishantagarwal/wba-runner",
   "email": "bindasrishant@gmail.com",
-  "keywords": ["webpack bundle analyzer", "react", "create react app"],
+  "keywords": [
+    "webpack bundle analyzer",
+    "react",
+    "create react app"
+  ],
   "author": "Rishant Agarwal",
   "license": "MIT",
   "bin": {
