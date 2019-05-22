@@ -20,7 +20,7 @@
   },
   "preferGlobal": "true",
   "dependencies": {
-    "react-scripts": "1.1.1",
-    "webpack-bundle-analyzer": "2.10.0"
+    "react-scripts": "^3.0.1",
+    "webpack-bundle-analyzer": "^3.3.2"
   }
 }
